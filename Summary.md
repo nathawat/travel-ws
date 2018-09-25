@@ -2,8 +2,8 @@
 
 ![Image of Yaktocat](https://i.ytimg.com/vi/VtGoLruEg8w/maxresdefault.jpg)
 
-[-Day 1](http://google.com)
-[-Day 2](http://google.com)
-[-Day 3](http://google.com)
-[-Day 4](http://google.com)
-[-Day 5](http://google.com)
+[-Day 1](https://github.com/nathawat/travel-ws/blob/master/Day1.md)
+[-Day 2](https://github.com/nathawat/travel-ws/blob/master/Day2.md)
+[-Day 3](https://github.com/nathawat/travel-ws/blob/master/day3.md)
+[-Day 4](https://github.com/nathawat/travel-ws/blob/master/day4.md)
+[-Day 5](https://github.com/nathawat/travel-ws/blob/master/Day5.md)
